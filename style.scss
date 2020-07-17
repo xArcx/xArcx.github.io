@@ -154,6 +154,9 @@ img {
   margin-bottom: 50px;
   background-color: $blue;
   border-bottom: 1px solid $lightGray;	
+  &:hover, &:active {
+    color: $White;
+  }	
 }
 
 .masthead {
